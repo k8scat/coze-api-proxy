@@ -1,0 +1,9 @@
+{
+    "name": "coze-api-proxy",
+    "version": "1.0.0",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "@netlify/edge-functions": "2.2.0"
+    }
+}
